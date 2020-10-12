@@ -1,0 +1,46 @@
+|JingleBells|0|Information about cutscene goes here||||
+|JingleBells|0|winter-1391617_1920||JingleBells|||
+|JingleBells|2|winter-1391617_1920|Dashing through the snow, In a one-horse open sleigh, O'er the fields we go, Laughing all the way, Bells on bobtails ring, Making spirits bright, What fun it is to ride and sing, A sleighing song tonight!||||
+|JingleBells|19|jungle-3902531_1920|Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh, hey! Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh!|||
+|JingleBells|35|sleigh-ride-549727_1920|A day or two ago, I thought I'd take a ride, And soon, Miss Fanny Bright, Was seated by my side, The horse was lean and lank, Misfortune seemed his lot, He got into a drifted bank, And then we got upsot!||||
+|JingleBells|50|winter-1060531_1920|Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh, hey! Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh!||||
+|JingleBells|67|midnight-snow-1915907_1920|A day or two ago, The story I must tell, I went out on the snow, And on my back I fell; A gent was riding by, In a one-horse open sleigh, He laughed as there I sprawling lie, But quickly drove away!||||
+|JingleBells|82|bag-21467_1920|Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh, hey! Jingle bells, jingle bells, Jingle all the way, Oh, what fun it is to ride, In a one-horse open sleigh!|||
+|JingleBells|101||||END||
+|WeThreeKings|0|Information about cutscene goes here||||
+|WeThreeKings|0|magi-3795282_1920||WeThreeKings|||
+|WeThreeKings|21|starry-night-1082060|We Three Kings of Orient are, Bearing gifts we traverse afar, Field and fountain, Moor and mountain, Following yonder Star.||||
+|WeThreeKings|40|switzerland-2051443_1920|O Star of Wonder, Star of Night, Star with Royal Beauty bright, Westward leading, Still proceeding, Guide us to Thy perfect Light.||||
+|WeThreeKings|61|star-1099846_1920|Born a King on Bethlehem plain, Gold I bring to crown Him again, King for ever, Ceasing never, Over us all to reign.||||
+|WeThreeKings|79|switzerland-2051443_1920|O Star of Wonder, Star of Night, Star with Royal Beauty bright, Westward leading, Still proceeding, Guide us to Thy perfect Light.||||
+|WeThreeKings|99|christmas-1125147_1920|Frankincense to offer have I, Incense owns a Deity nigh: Prayer and praising, All men raising, Worship Him God on High.||||
+|WeThreeKings|118|switzerland-2051443_1920|O Star of Wonder, Star of Night, Star with Royal Beauty bright, Westward leading, Still proceeding, Guide us to Thy perfect Light.||||
+|WeThreeKings|138|advent-80125_1920|Myrrh is mine; its bitter perfume, Breathes a life of gathering gloom;—Sorrowing, sighing, Bleeding, dying, Sealed in the stone-cold tomb.||||
+|WeThreeKings|156|switzerland-2051443_1920|O Star of Wonder, Star of Night, Star with Royal Beauty bright, Westward leading, Still proceeding, Guide us to Thy perfect Light.||||
+|WeThreeKings|177|christmas-baubles-1078996_1920|Glorious now behold Him arise, King, and God, and Sacrifice; Heav’n sings Hallelujah: Hallelujah the earth replies.||||
+|WeThreeKings|196|switzerland-2051443_1920|O Star of Wonder, Star of Night, Star with Royal Beauty bright, Westward leading, Still proceeding, Guide us to Thy perfect Light.||||
+|WeThreeKings|216|we-three-kings-photo|||||
+|WeThreeKings|222||||END||
+|AuldLangSyne|0|Information about cutscene goes here||||
+|AuldLangSyne|0|new-years-eve-1953253_1920|Should auld acquaintance be forgot, And never brought to mind? Should auld acquaintance be forgot, And auld lang syne!|AuldLangSyne|||
+|AuldLangSyne|28|fireworks-574739_1920|For auld lang syne, my dear, For auld lang syne.  We'll tak a cup o' kindness yet, For auld lang syne. ||||
+|AuldLangSyne|66||||END||
+|WeWishYou|0|Information about cutscene goes here||||
+|WeWishYou|0|decoration-4713177_1920|We wish you a Merry Christmas, We wish you a Merry Christmas, We wish you a Merry Christmas, And a Happy New Year.|WeWishYou|||
+|WeWishYou|63|christmas-bauble-1869989_1920|Good tidings to you, And all of your kin, Good tidings for Christmas, And a Happy New Year.||||
+|WeWishYou|72|snowflakes-3971461_1920|We wish you a Merry Christmas, We wish you a Merry Christmas, We wish you a Merry Christmas, And a Happy New Year.||||
+|WeWishYou|91|snowman-321034_1920|Good tidings to you, And all of your kin, Good tidings for Christmas, And a Happy New Year.||||
+|WeWishYou|100|lichterkette-3834926_1920|We wish you a Merry Christmas, We wish you a Merry Christmas, We wish you a Merry Christmas, And a Happy New Year.||||
+|WeWishYou|118|bank-2547356_1920|Good tidings to you, And all of your kin, Good tidings for Christmas, And a Happy New Year.||||
+|WeWishYou|130|christmas-1125147_1920|||||
+|WeWishYou|135||||END||
+|SilentNight|0|Information about cutscene goes here||||
+|SilentNight|0|winter-69927_1920||SilentNight|||
+|SilentNight|11|winter-1732882_1920|Silent night, holy night. All is calm, all is bright. 'Round yon virgin Mother and Child. Holy infant so tender and mild, Sleep in heavenly peace, Sleep in heavenly peace||||
+|SilentNight|69|cabin-2972634_1920|Silent night, holy night! Shepherds quake at the sight! Glories stream from heaven afar; Heavenly hosts sing Al-le-lu-ia! Christ the Savior is born! Christ the Savior is born!||||
+|SilentNight|129||||END||
+|AngelsWeHaveHeard|0|Information about cutscene goes here||||
+|AngelsWeHaveHeard|0|christmas-3840264_1920|Angels we have heard on high, Sweetly singing o'er the plains, And the mountains in reply, Echoing their joyous strains, Gloria in excelsis Deo!, Gloria in excelsis Deo!|AngelsWeHaveHeard|||
+|AngelsWeHaveHeard|70|christmas-angel-4649685_1920|Shepherds, why this jubilee? Why your joyous strains prolong? What the gladsome tidings be? Which inspire your heavenly songs? Gloria in excelsis Deo! Gloria in excelsis Deo!||||
+|AngelsWeHaveHeard|137|christmas-3866265_1920|||||
+|AngelsWeHaveHeard|146||||END||
