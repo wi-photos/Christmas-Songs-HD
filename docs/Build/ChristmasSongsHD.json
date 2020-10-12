@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ChristmasSongsHD",
+"productVersion": "1",
+"dataUrl": "ChristmasSongsHD.data.unityweb",
+"wasmCodeUrl": "ChristmasSongsHD.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChristmasSongsHD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}

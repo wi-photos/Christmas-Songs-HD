@@ -1,0 +1,1 @@
+The legacy version is built on Unity 3.4. The regular version is built on Unity 2020. The only reason you would need the legacy version is if you were trying to run it on Windows XP or a really old Mac. The regular version is much better. Please use the regular version.
